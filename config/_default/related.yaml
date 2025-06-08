@@ -1,4 +1,4 @@
-includeNewer: true
+includeNewer: false
 threshold: 60
 toLower: false
 indices:
