@@ -55,7 +55,7 @@ imageProcessing:
     enabled: true
 comments:
   enabled: true
-  provider: disqus
+  provider: cusdis
   disqusjs:
     shortname: ''
     apiUrl: ''
@@ -101,13 +101,13 @@ comments:
     serverName: cactus.chat
     siteName: ''
   giscus:
-    repo: ''
-    repoID: ''
-    category: ''
-    categoryID: ''
-    mapping: ''
-    lightTheme: ''
-    darkTheme: ''
+    repo: "ryanroth83/thenightshadenotebook"
+    repoID: "R_kgDOO4QpFA"
+    category: "Blog Comments"
+    categoryID: "DIC_kwDOO4QpFM4CrNtk"
+    mapping: "pathname"
+    lightTheme: ""
+    darkTheme: ""
     reactionsEnabled: 1
     emitMetadata: 0
   gitalk:
@@ -117,5 +117,5 @@ comments:
     clientID: ''
     clientSecret: ''
   cusdis:
-    host: ''
-    id: ''
+    host: 'https://cusdis.com'
+    id: '71eb073b-c3e8-4d03-bddf-58587e7cb3b3'
