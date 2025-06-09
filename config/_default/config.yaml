@@ -3,6 +3,6 @@ languageCode: en-us
 title: The Nightshade Notebook
 defaultContentLanguage: en
 hasCJKLanguage: false
-disqusShortname: hugo-theme-stack
+disqusShortname: thenightshadenotebook
 pagination:
   pagerSize: 5
