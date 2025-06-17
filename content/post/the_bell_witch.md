@@ -1,10 +1,11 @@
 ---
-title: The Otherwordly Archives-Case #001
+title: The Otherwordly Archives
 description: The Bell Witch 
 date: 2025-06-12
 draft: false
-snail: case_1
+slug: case_1
 ---
+
  Hey y’all! It’s me, Bridgette, and I'm back with a new post! Actually, this is a whole new series called The Otherworldly Archives! It’s basically me rambling on about ghosts, monsters, haunted places, and any other type of supernatural occurrences. This one is about my favorite ghost story ever! I read about this in 2nd grade( I was obsessed with ghosts and anything supernatural in 2nd grade, so much that I may or may not have scared all the girls in my class about a certain Japanese ghost, you'll never know…) But anyway, this one is about The Bell Witch! 
 
  It starts in Red River, Tennessee( now Adams, TN). It’s 1817 and the Bell family John, his wife Lucy, and their nine children. They had been living in their house for thirteen years now, and John was walking through his cornfield(the exact date or month is unknown about it is presumed to be late summer or early fall) and suddenly he saw an odd sight. A strange creature black creature with the body of a dog but the head of a rabbit, was there in the cornfield, almost as if it had been waiting for him. He shot at it with his rifle, and it disappeared into thin air before the bullet hit it. 
